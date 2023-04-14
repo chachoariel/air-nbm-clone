@@ -105,7 +105,7 @@ export const data = [
       latitude: -24.1893858,
       longitude: -65.2938462
     },
-    url: 'http://example.com'
+    url: 'http://example.comhttps://es.wikipedia.org/wiki/Malib%C3%BA_(California)'
   },
   {
     id: '7',
@@ -126,3 +126,4 @@ export const data = [
     url: 'http://example.com'
   }
 ]
+// al borrar el init se me perdio una rama
